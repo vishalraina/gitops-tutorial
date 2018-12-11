@@ -102,7 +102,7 @@ spec:
         # replace or remove the following URL
         - --git-url=git@github.com:vishalraina/flux-get-started.git
         - --git-branch=master
-        - --git-path=deploy/kubernetes
+        - --git-path=deploy/kubernetes 
         # addining comment to see if the push works
 
         # include these next two to connect to an "upstream" service
