@@ -102,6 +102,7 @@ spec:
         # replace or remove the following URL
         - --git-url=git@github.com:vishalraina/flux-get-started.git
         - --git-branch=master
+        - --git-path=deploy/kubernetes
 
         # include these next two to connect to an "upstream" service
         # (e.g., Weave Cloud). The token is particular to the service.
